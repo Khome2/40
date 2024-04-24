@@ -1,2 +1,2 @@
-suppos
+suppose
 # 40
