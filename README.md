@@ -1,2 +1,2 @@
-tsupposed 400 commit
+stsupposed 400 commit
 # 40
